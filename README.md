@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Andrea Méndez!
 
-
-
 <!--
 **andreammgcol/andreammgcol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:eyeglasses: I am a Graphic Designer, UX/UI Designer and Web Designer from Colombia 🇨🇴 who loves clean, simple & unique design.
+💻 I am a Graphic Designer, UX/UI Designer and Web Designer from Colombia 🇨🇴 who loves clean, simple & unique design.
 
 :mag: I am a curious and :bulb: creative person, always ready to learn :books:.
 
